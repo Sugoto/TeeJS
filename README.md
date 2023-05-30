@@ -6,7 +6,7 @@ TeeJS is a web application that empowers users to design and customize their own
 
 🎨 **Custom Design**: Express your creativity by choosing from a vast palette of colors and applying them to different areas of the t-shirt. Design your dream shirt with ease and make it truly yours.
 
-🖼️ **Logo Selection**: Browse through a diverse collection of pre-existing logos and graphics to add the perfect finishing touch to your design. Find the perfect emblem that aligns with your style and preferences.
+🖼️ **Logo Upload**: Elevate your design with TeeJS by seamlessly incorporating your own logos and graphics. Customize your t-shirt with the perfect emblem that reflects your unique style and preferences.
 
 🤖 **AI-generated Designs**: Harnessing the power of AI, TeeJS utilizes DALL·E AI to generate unique and artistic designs. Explore the possibilities of machine-generated creativity and discover designs that transcend the ordinary.
 
@@ -28,6 +28,6 @@ TeeJS is built using the following technologies:
 
 ## Feedback and Contributions 🤝
 
-We welcome feedback, bug reports, and contributions from the community! Feel free to submit issues or pull requests on our GitHub repository [here](https://github.com/your-username/teejs).
+We welcome feedback, bug reports, and contributions from the community! Feel free to submit issues or pull requests on my GitHub repository.
 
 Let's create amazing t-shirt designs together! 💪🎉
