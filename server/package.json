@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "cloudinary": "^1.37.0",
     "cors": "^2.8.5",
@@ -17,6 +18,5 @@
     "mongoose": "^7.2.1",
     "nodemon": "^2.0.22",
     "openai": "^3.2.1"
-  },
-  "description": ""
+  }
 }
