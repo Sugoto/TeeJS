@@ -2,6 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "type": "module",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
@@ -9,7 +10,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "cloudinary": "^1.35.0",
     "cors": "^2.8.5",
